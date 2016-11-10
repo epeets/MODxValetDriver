@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * MODx driver for Laravel Valet by Andy Cowan (@andyw4)
+ * based on the Wordpress driver by Adam Wathan
+ * I'd appreciate a quick message via twitter if you're using this.
+ */
+
 class MODxValetDriver extends BasicValetDriver
 {
     /**
