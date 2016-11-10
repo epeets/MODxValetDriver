@@ -6,3 +6,11 @@ This is a simple driver to enable the MODx CMS to run under Laravel Valet. Valet
 The driver was based on the Valet Wordpress driver by [Adam Wathan](https://github.com/adamwathan)
 
 To use - clone the repo, and after installing Valet, copy the driver file to ~/.valet/Drivers. No configuration needed.
+
+Fastest way to get a site up and running:
+
+1. Create a directory, cd in and valet link
+2. Gitify install:modx
+3. Log into the manager at directory.dev/manager
+
+
